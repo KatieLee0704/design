@@ -601,6 +601,8 @@ progress {
   height: auto;
 }
 
+
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -11888,10 +11890,11 @@ a:hover {
 .hero img,
 .bg-image img {
   position: absolute;
-  -webkit-transform: scale(1.3) translate(0%, -15%);
-  -ms-transform: scale(1.3) translate(0%, -15%);
-  transform: scale(1.3) translate(0%, -15%);
+  -webkit-transform: scale(1) translate(0%, -15%);
+  -ms-transform: scale(1) translate(0%, -15%);
+  transform: scale(1) translate(0%, -15%);
 }
+
 .hero a,
 .bg-image a {
   color: #fff;
