@@ -12897,7 +12897,7 @@ a:hover {
   gap: 50px;
 }
 .about_img > img{
-  width: 100%;
+  width: 80%;
 
 }
 @media screen and (max-width:414px){
